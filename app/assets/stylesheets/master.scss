@@ -10,7 +10,7 @@
     font-style: italic;
     position: relative;
     border-radius: 100%;
-    background: #f84342;
+    background: #4dd3f5;
     border: 1px solid #F7F7F7;
     width: 80px;
     height: 80px;
@@ -56,7 +56,7 @@ h2 {
 }
 
 .next-quote{
-  color: #f84342;
+  color: #4dd3f5;
   font-size: 20px;
   font-family: "Palatino Linotype";
 }
@@ -66,4 +66,9 @@ h2 {
   font-style: italic;
   text-align: right;
   font-size: 10px;
+}
+
+.logo:hover{
+  text-decoration: none;
+  
 }
